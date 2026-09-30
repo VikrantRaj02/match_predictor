@@ -1,7 +1,7 @@
 import requests, os
 
 os.makedirs("data", exist_ok=True)
-for start in range(16, 26):
+for start in range(16, 27):
     code = f"{start}{start+1}"
     url = f"https://www.football-data.co.uk/mmz4281/{code}/E0.csv"
     r = requests.get(url)
