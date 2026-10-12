@@ -3,6 +3,8 @@ A machine learning model that predicts the match results (home win/draw/away win
 
 When the model is unable to see 2025-26 season, it predicts the results accurately 50% of the time, compared with 42.6% for always picking the home team and Bet365's 48.9% result prediction accuracy.
 
+**Try it live:** https://matchpredictor-momakvqja2rc8bgoyz6ybd.streamlit.app/
+
 ## Results
 
 ### Test accuracy by version (2025-26 season, 380 matches)
