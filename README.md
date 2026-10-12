@@ -91,7 +91,19 @@ Since none of the form features didn't do anything to improve the model more tha
 
 ## Live Predictions
 
-**TBD**
+**Gameweek 6:** 5 of 10 correct (50%)
+| **Matchup** | **Predicted** | **Actual** |
+|---|---|---|
+| Arsenal vs Leeds | Arsenal | Arsenal |
+| Aston Villa vs Brentford | Aston Villa | Draw |
+| Ipswich vs Fulham | Fulham | Ipswich |
+| Chelsea vs Bournemouth | Chelsea | Chelsea |
+| Sunderland vs Brighton | Brighton | Brighton |
+| Man United vs Tottenham | Man United | Draw |
+| Crystal Palace vs Nott'm Forest | Crystal Palace |
+| Hull vs Everton | Everton | Draw |
+| Liverpool vs Man City | Man City | Man City |
+| Coventry vs Newcastle | Newcastle | Coventry |
 
 ## How to Run
 
